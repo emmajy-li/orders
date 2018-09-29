@@ -1,0 +1,478 @@
+
+ID of the customer: 100001
+Name of the customer: Jingyi
+Address of the customer: 10 Huixindongjie, 4203 Hongyuan Building
+
+ID of the goods: 1001
+Name of the goods: apple
+Unit price of the goods: 2.5
+Amount of the goods: 10
+Total price of the goods: 25
+
+ID of the goods: 1002
+Name of the goods: banana
+Unit price of the goods: 1
+Amount of the goods: 5
+Total price of the goods: 5
+
+ID of the goods: 1003
+Name of the goods: orange
+Unit price of the goods: 2
+Amount of the goods: 20
+Total price of the goods: 40
+
+ID of the order: 1704290001
+Total price of the order: 70
+
+ID of the customer: 100002
+Name of the customer: Emma
+Address of the customer: UIBE, 4203 Hongyuan Building
+
+ID of the goods: 1001
+Name of the goods: apple
+Unit price of the goods: 2.5
+Amount of the goods: 5
+Total price of the goods: 12.5
+
+ID of the goods: 1004
+Name of the goods: pineapple
+Unit price of the goods: 10
+Amount of the goods: 1
+Total price of the goods: 10
+
+ID of the goods: 1005
+Name of the goods: mango
+Unit price of the goods: 6
+Amount of the goods: 10
+Total price of the goods: 60
+
+ID of the order: 1704290001
+Total price of the order: 82.5
+
+ID of the customer: 10001
+Name of the customer: Emma
+Address of the customer: 10 Huixindongjie
+Orders of the customer:
+ID of the order: 1704290001
+Total price of the order: 16
+
+ID of the goods: 1001
+Name of the goods: apple
+Unit price of the goods: 2.5
+Amount of the goods: 2
+Total price of the goods: 5
+
+ID of the goods: 1002
+Name of the goods: banana
+Unit price of the goods: 1
+Amount of the goods: 1
+Total price of the goods: 1
+
+ID of the goods: 1004
+Name of the goods: pineapple
+Unit price of the goods: 10
+Amount of the goods: 1
+Total price of the goods: 10
+
+ID of the customer: 10001
+Name of the customer: Emma
+Address of the customer: 10 Huixindongjie
+Orders of the customer:
+ID of the order: 1704290002
+Total price of the order: 0
+
+ID of the goods: 1001
+Name of the goods: apple
+Unit price of the goods: 2.5
+Amount of the goods: 10
+Total price of the goods: 0
+
+ID of the goods: 1003
+Name of the goods: orange
+Unit price of the goods: 2
+Amount of the goods: 30
+Total price of the goods: 0
+
+ID of the goods: 1005
+Name of the goods: mango
+Unit price of the goods: 6
+Amount of the goods: 10
+Total price of the goods: 0
+
+ID of the customer: 100001
+Name of the customer: Emma
+Address of the customer: 10 Huixindongjie
+Orders of the customer:
+ID of the order: 1704290001
+Total price of the order: 55
+
+ID of the goods: 1001
+Name of the goods: apple
+Unit price of the goods: 2.5
+Amount of the goods: 10
+Total price of the goods: 25
+
+ID of the goods: 1002
+Name of the goods: banana
+Unit price of the goods: 1
+Amount of the goods: 20
+Total price of the goods: 20
+
+ID of the goods: 1003
+Name of the goods: orange
+Unit price of the goods: 2
+Amount of the goods: 5
+Total price of the goods: 10
+
+ID of the customer: 100001
+Name of the customer: Emma
+Address of the customer: 10 Huixindongjie
+Orders of the customer:
+ID of the order: 1704290002
+Total price of the order: 0
+
+ID of the goods: 1002
+Name of the goods: banana
+Unit price of the goods: 1
+Amount of the goods: 5
+Total price of the goods: 0
+
+ID of the goods: 1004
+Name of the goods: pineapple
+Unit price of the goods: 10
+Amount of the goods: 5
+Total price of the goods: 0
+
+ID of the goods: 1005
+Name of the goods: mango
+Unit price of the goods: 6
+Amount of the goods: 7
+Total price of the goods: 0
+
+ID of the customer: 100001
+Name of the customer: Jingyi
+Address of the customer: 10 Huixindongjie, 4203 Hongyuan
+
+The Orders of the customer:
+ID of the order: 1704290001
+Total price of the order: 70
+
+ID of the goods: 1001
+Name of the goods: apple
+Unit price of the goods: 2.5
+Amount of the goods: 10
+Total price of the goods: 25
+
+ID of the goods: 1002
+Name of the goods: banana
+Unit price of the goods: 1
+Amount of the goods: 5
+Total price of the goods: 5
+
+ID of the goods: 1003
+Name of the goods: orange
+Unit price of the goods: 2
+Amount of the goods: 20
+Total price of the goods: 40
+
+ID of the customer: 100001
+Name of the customer: Jingyi
+Address of the customer: 10 Huixindongjie, 4203 Hongyuan
+
+The Orders of the customer:
+ID of the order: 1704290002
+Total price of the order: 82.5
+
+ID of the goods: 1001
+Name of the goods: apple
+Unit price of the goods: 2.5
+Amount of the goods: 5
+Total price of the goods: 12.5
+
+ID of the goods: 1004
+Name of the goods: pineapple
+Unit price of the goods: 10
+Amount of the goods: 1
+Total price of the goods: 10
+
+ID of the goods: 1005
+Name of the goods: mango
+Unit price of the goods: 6
+Amount of the goods: 10
+Total price of the goods: 60
+
+ID of the customer: 10001
+Name of the customer: Emma
+Address of the customer:
+
+Orders of the customer---------------------
+ID of the order: 1704290001
+Total price of the order: 16
+
+Goods' ID: 1001
+Goods' name: apple
+Goods' unit price: 2.5
+Goods' amount: 2
+Total price of the goods: 5
+
+Goods' ID: 1002
+Goods' name: banana
+Goods' unit price: 1
+Goods' amount: 1
+Total price of the goods: 1
+
+Goods' ID: 1003
+Goods' name: orange
+Goods' unit price: 2
+Goods' amount: 5
+Total price of the goods: 10
+
+ID of the customer: 10001
+Name of the customer: Emma
+Address of the customer:
+
+Orders of the customer---------------------
+ID of the order: 1704290002
+Total price of the order: 35.5
+
+Goods' ID: 1001
+Goods' name: apple
+Goods' unit price: 2.5
+Goods' amount: 5
+Total price of the goods: 12.5
+
+Goods' ID: 1002
+Goods' name: banana
+Goods' unit price: 1
+Goods' amount: 5
+Total price of the goods: 5
+
+Goods' ID: 1005
+Goods' name: mango
+Goods' unit price: 6
+Goods' amount: 3
+Total price of the goods: 18
+
+ID of the customer: 100001
+Name of the customer: Jingyi
+Address of the customer: 10 Huixindongjie, 4203 Hongyuan
+
+Order of the customer
+---------------------
+ID of the order: 1704290001
+Total price of the order: 70
+
+Goods' ID: 1001
+Goods' name: apple
+Goods' unit price: 2.5
+Goods' amount: 10
+Total price of the goods: 25
+
+Goods' ID: 1002
+Goods' name: banana
+Goods' unit price: 1
+Goods' amount: 5
+Total price of the goods: 5
+
+Goods' ID: 1003
+Goods' name: orange
+Goods' unit price: 2
+Goods' amount: 20
+Total price of the goods: 40
+
+ID of the customer: 100001
+Name of the customer: Jingyi
+Address of the customer: 10 Huixindongjie, 4203 Hongyuan
+
+Order of the customer
+---------------------
+ID of the order: 1704290002
+Total price of the order: 82.5
+
+Goods' ID: 1001
+Goods' name: apple
+Goods' unit price: 2.5
+Goods' amount: 5
+Total price of the goods: 12.5
+
+Goods' ID: 1004
+Goods' name: pineapple
+Goods' unit price: 10
+Goods' amount: 1
+Total price of the goods: 10
+
+Goods' ID: 1005
+Goods' name: mango
+Goods' unit price: 6
+Goods' amount: 10
+Total price of the goods: 60
+Info of the customer
+Customer's ID: 100001
+Customer's name: Jingyi
+Customer's address: 10 Huixindongjie, 4203 Hongyuan
+
+Order of the customer
+---------------------
+ID of the order: 1704290001
+Total price of the order: 70
+
+Goods' ID: 1001
+Goods' name: apple
+Goods' unit price: 2.5
+Goods' amount: 10
+Total price of the goods: 25
+
+Goods' ID: 1002
+Goods' name: banana
+Goods' unit price: 1
+Goods' amount: 5
+Total price of the goods: 5
+
+Goods' ID: 1003
+Goods' name: orange
+Goods' unit price: 2
+Goods' amount: 20
+Total price of the goods: 40
+Info of the customer
+Customer's ID: 100001
+Customer's name: Jingyi
+Customer's address: 10 Huixindongjie, 4203 Hongyuan
+
+Order of the customer
+---------------------
+ID of the order: 1704290002
+Total price of the order: 38.5
+
+Goods' ID: 1001
+Goods' name: apple
+Goods' unit price: 2.5
+Goods' amount: 5
+Total price of the goods: 12.5
+
+Goods' ID: 1002
+Goods' name: banana
+Goods' unit price: 1
+Goods' amount: 20
+Total price of the goods: 20
+
+Goods' ID: 1005
+Goods' name: mango
+Goods' unit price: 6
+Goods' amount: 1
+Total price of the goods: 6
+
+Info of the customer
+---------------------
+Customer's ID: 100001
+Customer's name: Jingyi
+Customer's address: 10 Huixindongjie, 4203 Hongyuan
+
+Order of the customer
+---------------------
+ID of the order: 1704290001
+Total price of the order: 70
+
+Goods' ID: 1001
+Goods' name: apple
+Goods' unit price: 2.5
+Goods' amount: 10
+Total price of the goods: 25
+
+Goods' ID: 1002
+Goods' name: banana
+Goods' unit price: 1
+Goods' amount: 5
+Total price of the goods: 5
+
+Goods' ID: 1003
+Goods' name: orange
+Goods' unit price: 2
+Goods' amount: 20
+Total price of the goods: 40
+
+Info of the customer
+---------------------
+Customer's ID: 100001
+Customer's name: Jingyi
+Customer's address: 10 Huixindongjie, 4203 Hongyuan
+
+Order of the customer
+---------------------
+ID of the order: 1704290002
+Total price of the order: 82.5
+
+Goods' ID: 1001
+Goods' name: apple
+Goods' unit price: 2.5
+Goods' amount: 5
+Total price of the goods: 12.5
+
+Goods' ID: 1004
+Goods' name: pineapple
+Goods' unit price: 10
+Goods' amount: 1
+Total price of the goods: 10
+
+Goods' ID: 1005
+Goods' name: mango
+Goods' unit price: 6
+Goods' amount: 10
+Total price of the goods: 60
+
+Info of the customer
+---------------------
+Customer's ID: 1000002
+Customer's name: Emma
+Customer's address: UIBE, 4203 Hongyuan Building
+
+Order of the customer
+---------------------
+ID of the order: 1704290001
+Total price of the order: 105
+
+Goods' ID: 1001
+Goods' name: apple
+Goods' unit price: 2.5
+Goods' amount: 20
+Total price of the goods: 50
+
+Goods' ID: 1002
+Goods' name: banana
+Goods' unit price: 1
+Goods' amount: 5
+Total price of the goods: 5
+
+Goods' ID: 1004
+Goods' name: pineapple
+Goods' unit price: 10
+Goods' amount: 5
+Total price of the goods: 50
+
+Info of the customer
+---------------------
+Customer's ID: 1000002
+Customer's name: Emma
+Customer's address: UIBE, 4203 Hongyuan Building
+
+Order of the customer
+---------------------
+ID of the order: 1704290002
+Total price of the order: 82.5
+
+Goods' ID: 1002
+Goods' name: banana
+Goods' unit price: 1
+Goods' amount: 40
+Total price of the goods: 40
+
+Goods' ID: 1001
+Goods' name: apple
+Goods' unit price: 2.5
+Goods' amount: 5
+Total price of the goods: 12.5
+
+Goods' ID: 1003
+Goods' name: orange
+Goods' unit price: 2
+Goods' amount: 15
+Total price of the goods: 30
